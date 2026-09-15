@@ -1,0 +1,17 @@
+com/bookstore/config/SecurityConfig.class
+com/bookstore/entity/User.class
+com/bookstore/dto/ApiResponse.class
+com/bookstore/controller/BookController.class
+com/bookstore/dto/RegisterRequest.class
+com/bookstore/dto/LoginRequest.class
+com/bookstore/service/UserService.class
+com/bookstore/controller/AuthController.class
+com/bookstore/BookstoreApplication.class
+com/bookstore/service/BookService.class
+com/bookstore/entity/Book.class
+com/bookstore/controller/HealthController.class
+com/bookstore/dto/AuthResponse.class
+com/bookstore/config/CorsConfig.class
+com/bookstore/config/DataInitializer.class
+com/bookstore/repository/UserRepository.class
+com/bookstore/repository/BookRepository.class

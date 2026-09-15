@@ -1,0 +1,17 @@
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/repository/BookRepository.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/config/SecurityConfig.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/entity/Book.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/dto/RegisterRequest.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/service/BookService.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/config/CorsConfig.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/dto/AuthResponse.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/BookstoreApplication.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/controller/HealthController.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/config/DataInitializer.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/service/UserService.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/entity/User.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/dto/LoginRequest.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/repository/UserRepository.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/controller/AuthController.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/dto/ApiResponse.java
+/Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/backend/src/main/java/com/bookstore/controller/BookController.java
