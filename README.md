@@ -182,6 +182,13 @@ The frontend application will be live at **`http://localhost:5173`**.
 For complete Software Requirements Specifications (SRS), including Functional Requirements (FR), Non-Functional Requirements (NFR), Use Case Scenarios, Data Models, and Security Protocols, refer to [SOFTWARE_REQUIREMENTS.md](file:///Users/jasleenkaurmultani/.gemini/antigravity-ide/scratch/bookstore-fullstack/SOFTWARE_REQUIREMENTS.md).
 
 ---
+## ScreenShots
+
+<img width="1468" height="750" alt="image" src="https://github.com/user-attachments/assets/81562d75-67b0-4000-bed7-4e4ef26a8041" />
+
+
+<img width="1468" height="744" alt="image" src="https://github.com/user-attachments/assets/cdcc894f-9862-4c24-9817-e541c5cc458d" />
+
 
 ## 📜 License
 
